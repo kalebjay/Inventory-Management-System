@@ -1,10 +1,10 @@
 # Inventory-Management-System
 JavaFX program with GUIs and supporting classes to handle parts and products
-
-There are 5 classes with variables that set up the program
-The controllers control each of the screens the program uses and there is a fxml file per controller
-There are parts and products and the user can add, modify, delete, and search them
-Each product is designed to have parts added to it
+This is a system to keep track of parts and products. Products consist of parts and have a separate
+set of storage in the program. A user can create parts and from the parts create products.
+There are 5 classes with variables that set up the backbone of the program.
+The controllers control each of the screens the program uses and there is a fxml file per controller.
+There are parts and products and the user can add, modify, delete, and search them.
 
 The following is taken from the course instructions
 
